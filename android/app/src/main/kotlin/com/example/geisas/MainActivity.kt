@@ -1,4 +1,4 @@
-package com.example.geisas
+package com.geiseguros
 
 import io.flutter.embedding.android.FlutterActivity
 

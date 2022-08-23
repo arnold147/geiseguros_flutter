@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.geisas">
+    package="com.geiseguros">
    <application
-        android:label="geisas"
+        android:label="Geisas"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
