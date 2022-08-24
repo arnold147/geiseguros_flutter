@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.geiseguros">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="Geisas"
+        android:label="GEI Seguros"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
